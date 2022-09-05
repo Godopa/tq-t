@@ -16,7 +16,19 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 {{date.DATA}} 
 
-明日课程安排，竖起耳朵听好了：{{keChen.DATA}}
+地区：{{region.DATA}}
+
+天气：{{weather.DATA}}  气温：{{temp.DATA}}  湿度：{{humidity.DATA}}  气压：{{pressure.DATA}}
+
+风向：{{wind_dir.DATA}}  风速：{{windSpeed.DATA}}  风力：{{windScale.DATA}}
+
+今天是我们恋爱的第{{love_day.DATA}}天 
+
+{{birthday1.DATA}} 
+{{birthday2.DATA}}
+
+{{note_en.DATA}} 
+{{note_ch.DATA}}
 
 
 天气key生成教程
