@@ -20,7 +20,7 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 
 地区：{{region.DATA}}
 
-当前天气：{{weather.DATA}} {{temp.DATA}}  湿度：{{humidity.DATA}}  气压：{{pressure.DATA}}
+天气：{{weather.DATA}} {{temp.DATA}}  湿度：{{humidity.DATA}}  气压：{{pressure.DATA}}
 
 风向：{{wind_dir.DATA}}  风速：{{windSpeed.DATA}}  风力：{{windScale.DATA}}
 
