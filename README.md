@@ -15,8 +15,21 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 模板内容如下：
 
 {{date.DATA}} 
+{{rtoday.DATA}} 
 
-明日课程安排，竖起耳朵听好了：{{keChen.DATA}}
+地区：{{region.DATA}}
+
+天气：{{weather.DATA}}  气温：{{temp.DATA}}  湿度：{{humidity.DATA}}  气压：{{pressure.DATA}}
+
+风向：{{wind_dir.DATA}}  风速：{{windSpeed.DATA}}  风力：{{windScale.DATA}}
+
+今天是我们恋爱的第{{love_day.DATA}}天 
+
+{{birthday1.DATA}} 
+{{birthday2.DATA}}
+
+{{note_en.DATA}} 
+{{note_ch.DATA}}
 
 
 天气key生成教程
@@ -26,3 +39,23 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 可以去天行数据申请各种各样的接口用来推送  
 ![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/Snipaste_2022-08-24_12-13-19.png)
 ![image](https://raw.githubusercontent.com/limoest/daily_reminder/main/others/Snipaste.png)
+
+
+
+有别的建议欢迎留言
+
+{{date.DATA}} 
+城市：{{region.DATA}} 
+天气：{{weather.DATA}} 
+最低气温: {{min_temp.DATA}} 
+最高气温: {{max_temp.DATA}}
+降雨概率：{{pop.DATA}}%
+今日建议：{{tips.DATA}}
+今天是我们恋爱的第{{love_day.DATA}}天 
+距离我的生日还有{{birthday1.DATA}}
+距离老公生日还有{{birthday2.DATA}}
+寄言：
+{{lizhi.DATA}} 
+{{note_en.DATA}} 
+{{note_ch.DATA}} 
+{{pipi.DATA}}
