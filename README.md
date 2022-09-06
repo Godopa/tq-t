@@ -17,7 +17,8 @@ https://www.coolapk.com/feed/38579891?shareKey=NGI3ZGZlZTM4MDBjNjMwMzdlM2M~&shar
 {{date.DATA}} 
 {{rtoday.DATA}}
 
-明日课程安排，竖起耳朵听好了：{{keChen.DATA}}
+明日课程安排，竖起耳朵听好了：
+{{keChen.DATA}}
 
 
 天气key生成教程
